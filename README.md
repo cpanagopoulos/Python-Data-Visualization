@@ -1,11 +1,7 @@
 # PyViz - Data Visualization
 
-![San Francisco Park Reading](Images/san-francisco-park-reading.jpg)
-
-*[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
-
 ## Background
 
-Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the San Francisco market. If the new service is popular, then they can start to expand to other markets.
+This assignment was real world scenario in which a real estate team wanted to trial this initial offering with investment opportunities for the San Francisco market. We were provided the data about the San Francisco housing market and tasked with both analyzing and visualizing the results. It was the homework to test our skills using the python data visualizations libraries including plotly, matplotlib, and hvplot.
 
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.

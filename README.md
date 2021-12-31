@@ -6,6 +6,8 @@ This assignment was a real world scenario in which a real estate team wanted to 
 
 ## Visualizations of San Francisco Housing Market
 
+The following are visualizations produced from the analysis:
+
 ![Housing Units](https://github.com/cpanagopoulos/Python-Data-Visualization/blob/main/Visualizations/Housing_Units_2010-2016.PNG)
 
 ![Average Price/SqFt](https://github.com/cpanagopoulos/Python-Data-Visualization/blob/main/Visualizations/Avg_Price_Per_Sqft.PNG)
@@ -16,7 +18,7 @@ This assignment was a real world scenario in which a real estate team wanted to 
 
 ![Top 10 Most Expensive Neighborhoods](https://github.com/cpanagopoulos/Python-Data-Visualization/blob/main/Visualizations/Top_10_Most_Exp.PNG)
 
-![Top 10 Most Expensive Neighborhoods - Gross Rent](https://github.com/cpanagopoulos/Python-Data-Visualization/blob/main/Visualizations/Top_10_Most_Exp.PNG)
+![Top 10 Most Expensive Neighborhoods - Gross Rent](https://github.com/cpanagopoulos/Python-Data-Visualization/blob/main/Visualizations/Top_10_Most_Exp_GrossRent_v_SalePriceSqft.PNG)
 
 ![Most Exp Neighborhoods/year](https://github.com/cpanagopoulos/Python-Data-Visualization/blob/main/Visualizations/Avg_SalePriceSqFt_GrossRent_Sunburst.PNG)
 

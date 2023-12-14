@@ -1,4 +1,4 @@
-# PyViz - Visualizing Real Estate Market Data
+# Visualizing Real Estate Market Data With PyViz
 
 ## Background
 
